@@ -3,7 +3,7 @@
 <br/>
 
 <br />
-The app is developed using React.js and material-UI.
+This weather dashboard app is developed by using React.js and material-UI.
 
 <br/>
 
